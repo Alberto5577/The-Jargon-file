@@ -28,3 +28,8 @@ pre{
     font-size: 1rem;
     font-weight: bold;
 }
+address{
+    font-family: serif;
+    font-style: normal;
+    text-align: right;
+}
