@@ -1,0 +1,20 @@
+h1{
+    font-size: 3rem;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+body{
+    background-color: hsl(198, 50%, 85%);
+    font-family: sans-serif;
+}
+h2{
+    font-size: 2rem;
+    background-color: hsl(198, 50%, 50%);
+}
+p{
+    text-align: justify;
+}
+blockquote{
+    font-style: italic;
+}
